@@ -2,6 +2,11 @@
 B. Liu, S. Gao, X. Liu, X. Cheng, L. Yang. “WiFo: Wireless Foundation Model for Channel Prediction. ” SCIENCE CHINA Information Sciences, June 2025, 68(6): 162302. 
 <br>
 
+## 📢 Latest Updates
+
+🔥🔥🔥 Last Updated on 2025.11.27 🔥🔥🔥 
+- [2025.11.28] We released all the pre-training datasets as open source at [[Pretraining Dataset]](https://disk.pku.edu.cn/link/AA003E48DD5EF343C18ACD92ACF3BB8E3E).
+
 ## Dependencies and Installation
 - Python 3.9 (Recommend to use [Anaconda](https://www.anaconda.com/))
 - Pytorch 2.0.0
